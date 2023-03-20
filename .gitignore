@@ -10,5 +10,3 @@
 
 #sensitive data
 *tfvars
-
-**/.terraform.lock.hcl/*
